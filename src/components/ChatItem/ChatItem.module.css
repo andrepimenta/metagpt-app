@@ -1,0 +1,11 @@
+.card {
+  @apply transition-all ease-in-out duration-300 bg-orange-700 p-2 my-2 rounded-md hover:bg-orange-600;
+}
+
+.title {
+  @apply font-medium tracking-wide;
+}
+
+.description {
+  @apply text-xs mt-1;
+}
