@@ -87,7 +87,7 @@ export const SpeechBubble: React.FC<{
                   <div style={{ marginRight: 6 }}>
                     <img src={fox} width={30} alt="Loading" />
                   </div>
-                  <div>Try it in MetaMask</div>
+                  <div>Try it with MetaMask</div>
                 </div>
               </button>
             </div>
